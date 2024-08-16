@@ -1,0 +1,10 @@
+#Instalar Python no computador
+#https://www.python.org/downloads/ (Na instalação Selecionar a opção Admin e Adicionar Python ao Path)
+
+#No terminal do vscode instalar o Flask > pip install Flask
+
+#Instalar a bilbioteca OpenCV
+#pip install opencv-python
+#pip install opencv-python-headless
+
+#Acessar as imagens da camera em http://127.0.0.1:5000
